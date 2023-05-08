@@ -23,9 +23,9 @@ incorporating basketball as a familiar medium to provide context to programming.
     CREATE Symposium Poster, November 21, 2019, GGC
 
 # Outreach Activites 
-    Super Saturday Series(S3), November 9, 2019, GGC – middle and high school girls to promote the IT & STEM career
+    Super Saturday Series(S3), Febuary 25, 2023, GGC – elementary, middle, and high school students to promote STEM (specificly IT) career 
     
-    Tap Expo, October 10, 2019, GGC – Promote IT field and the TAP program to college students
+    Tap Expo, March 21, 2023, GGC – Promote IT field and the TAP program to college students
     
     Class Workshops – on November 12th, November 13th, and November 20th, to promote IT to non-IT college students
     
