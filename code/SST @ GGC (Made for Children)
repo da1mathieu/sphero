@@ -1,0 +1,22 @@
+async function startProgram() {
+	// insert name/change color
+	await scrollMatrixText('Benny', { r: 63, g: 83, b: 255 }, 15, true);
+	clearMatrix();
+	// create your own animation
+	playMatrixAnimation(0, true);
+	overrideMatrixAnimationFramerate(4);
+	await roll(0, 50, 3);
+	await roll(90, 50, 3);
+	await roll(180, 50, 3);
+	await roll(270, 50, 3);
+	// end of code
+	stopRoll();
+}
+
+registerMatrixAnimation({
+	frames: [[[8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2], [8, 8, 8, 0, 0, 2, 2, 2]]],
+	palette: [{ r: 255, g: 255, b: 255 }, { r: 0, g: 0, b: 0 }, { r: 255, g: 0, b: 0 }, { r: 255, g: 64, b: 0 }, { r: 255, g: 128, b: 0 }, { r: 255, g: 191, b: 0 }, { r: 255, g: 255, b: 0 }, { r: 185, g: 246, b: 30 }, { r: 0, g: 255, b: 0 }, { r: 185, g: 255, b: 255 }, { r: 0, g: 255, b: 255 }, { r: 0, g: 0, b: 255 }, { r: 145, g: 0, b: 211 }, { r: 157, g: 48, b: 118 }, { r: 255, g: 0, b: 255 }, { r: 204, g: 27, b: 126 }],
+	fps: 10,
+	transition: MatrixAnimationTransition.None
+});
+
