@@ -1,5 +1,5 @@
 # Title
-Using Sphero to teach programming fundementals 
+Using Sphero to teach programming fundementals jkhjhkh
 
 # Description
 We are using Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
