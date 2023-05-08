@@ -8,18 +8,16 @@ brief dance code using the avaiable functions and varibles provided on the app t
 program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 
 # Team
-    Joel Garcia 
+    Dylan Long 
     
-    Patrick Page
+    Thuy Pham
     
-    Nikki Mehdikhani
-    
-    Daniel Redder
+    Danielle Mathieu
     
     Advisors
-    Dr. Anca Doloc Mihu
+    Dr. Xin Xu
     
-    Dr. Robertson
+    Dr. Wei Jin
     
 # Publications
     CCSC SE poster presentation October 25th Auburn, AL
