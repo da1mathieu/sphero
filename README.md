@@ -43,7 +43,6 @@ The technology a programmable robotic ball that either operates with code or by 
 # Installation/setup
 * A Sphero
 * A device (laptop/tablet/phone) with bluetooth connectivity  
-* An obstacle course
 
 # Usage
 * Connect the Sphero robot via bluetooth with the device in order to move it. 
