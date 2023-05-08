@@ -24,7 +24,7 @@ program that allows students to learn leadership skills and help promote IT and 
 # Publications
     CCSC SE poster presentation October 25th Auburn, AL
     
-    CREATE Symposium Poster, November 21, 2019, GGC
+    CREATE Symposium Poster, November 21, 2019, GGC jgj
 
 # Outreach Activites 
     Super Saturday Series(S3), November 9, 2019, GGC – middle and high school girls to promote the IT & STEM career
