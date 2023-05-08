@@ -1,21 +1,25 @@
 # Title
-Using Sphero to teach programming fundementals 
+From Coding to Creativity: Using Dancing Sphero Robots to Inspire STEM Learning
 
 # Description
-We are using Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
-incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
+We are using Sphero to teach programming fundamentals (for functions, variables, etc.) in a hands on way. We focused on
+exploring the intersection between robotics and the arts (more specifically -dance). The students will navigate Sphero by creating a
+brief dance code using the avaiable functions and varibles provided on the app to move the robot. TAP is the technology ambassadors 
+program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 
 # Team
-    Dylan Long 
+    Joel Garcia 
     
-    Thuy Pham
+    Patrick Page
     
-    Danielle Mathieu 
+    Nikki Mehdikhani
+    
+    Daniel Redder
     
     Advisors
-    Dr. Xu
+    Dr. Anca Doloc Mihu
     
-    Dr. Jin
+    Dr. Robertson
     
 # Publications
     CCSC SE poster presentation October 25th Auburn, AL
@@ -23,9 +27,9 @@ incorporating basketball as a familiar medium to provide context to programming.
     CREATE Symposium Poster, November 21, 2019, GGC
 
 # Outreach Activites 
-    Super Saturday Series(S3), Febuary 25, 2023, GGC – elementary, middle, and high school students to promote STEM (specificly IT) career 
+    Super Saturday Series(S3), November 9, 2019, GGC – middle and high school girls to promote the IT & STEM career
     
-    Tap Expo, March 21, 2023, GGC – Promote IT field and the TAP program to college students
+    Tap Expo, October 10, 2019, GGC – Promote IT field and the TAP program to college students
     
     Class Workshops – on November 12th, November 13th, and November 20th, to promote IT to non-IT college students
     
