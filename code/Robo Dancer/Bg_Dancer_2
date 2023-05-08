@@ -1,0 +1,32 @@
+async function startProgram() {
+	await roll(0, 14, 3.2);
+	for (var _i0 = 0; _i0 < 3; ++_i0) {
+		await spin(270, 0.5);
+		await roll(270, 14, 5);
+		await delay(0.2);
+		await spin(90, 0.5);
+		await roll(90, 14, 5);
+		await delay(0.3);
+		await delay(0.025);
+	}
+	setSpeed(29);
+	await spin(-45, 6.8);
+	stopRoll();
+	await delay(1);
+	await spin(180, 0.5);
+	for (var _i1 = 0; _i1 < 2; ++_i1) {
+		await roll(270, 25, 5);
+		await delay(0.8);
+		await roll(0, 25, 5);
+		await delay(0.8);
+		await roll(90, 25, 5);
+		await delay(0.8);
+		await roll(180, 25, 5);
+		await delay(0.8);
+		await delay(0.025);
+	}
+	await delay(0.7);
+	await roll(0, 14, 3.2);
+	await delay(3);
+	await roll(180, 24, 6);
+}
