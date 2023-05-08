@@ -1,23 +1,21 @@
 # Title
-Using Sphero to teach programming fundementals jkhjhkh
+Using Sphero to teach programming fundementals 
 
 # Description
 We are using Sphero to teach programming fundamentals (for loops, functions, variables, etc.) in a hands on way. We are 
 incorporating basketball as a familiar medium to provide context to programming. The students will navagate the Sphero through the basketball-themed obstacle course only using programming scripts to move the Sphero. TAP is the technology ambassadors program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 
 # Team
-    Joel Garcia 
+    Dylan Long 
     
-    Patrick Page
+    Thuy Pham
     
-    Nikki Mehdikhani
-    
-    Daniel Redder
+    Danielle Mathieu 
     
     Advisors
-    Dr. Anca Doloc Mihu
+    Dr. Xu
     
-    Dr. Robertson
+    Dr. Jin
     
 # Publications
     CCSC SE poster presentation October 25th Auburn, AL
