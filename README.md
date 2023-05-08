@@ -6,6 +6,7 @@ We are using Sphero to teach programming fundamentals (for functions, variables,
 exploring the intersection between robotics and the arts (more specifically -dance). The students will navigate Sphero by creating a
 brief dance code using the avaiable functions and varibles provided on the app to move the robot. TAP is the technology ambassadors 
 program that allows students to learn leadership skills and help promote IT and STEM careers. [Link to TAP GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
+///ADD A LINK HERE TO THE COMPLETED TAP DANCING CODE
 
 # Team
     Dylan Long 
@@ -35,10 +36,10 @@ program that allows students to learn leadership skills and help promote IT and 
 The technology a programmable robotic ball that either operates with code or by remote control. Its primary uses are for teaching and educational purposes.
 * Sphero Sprk+ 
     1. https://www.sphero.com/sphero-sprk-plus 
-    2. [image](https://github.com/TechAmbassadors-GGC/ball-is-life/blob/master/media/sphero.png)
+    2. [image](https://github.com/TechAmbassadors-GGC/ball-is-life/blob/master/media/sphero.png) ////CHANGE WHEN GET PHOTOS
 * Sphero Bolt 
     1. https://www.sphero.com/sphero-bolt 
-    2. [image](https://github.com/TechAmbassadors-GGC/ball-is-life/blob/master/media/spherobolt.jpg)
+    2. [image](https://github.com/TechAmbassadors-GGC/ball-is-life/blob/master/media/spherobolt.jpg) ////CHANGE WHEN WE GET PHOTOS
 
 # Installation/setup
 * A Sphero
