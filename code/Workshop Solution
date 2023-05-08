@@ -1,0 +1,34 @@
+async function startProgram() {
+	await square();
+	await reverseSqaure();
+}
+
+async function up() {
+	await roll(0, 30, 4);
+}
+
+async function right() {
+	await roll(90, 30, 4);
+}
+
+async function left() {
+	await roll(270, 30, 4);
+}
+
+async function down() {
+	await roll(180, 30, 4);
+}
+
+async function square() {
+	await up();
+	await right();
+	await down();
+	await left();
+}
+
+async function reverseSqaure() {
+	await right();
+	await up();
+	await left();
+	await down();
+}
