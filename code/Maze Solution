@@ -1,0 +1,30 @@
+async function startProgram() {
+	// straight
+	await roll(0, 20, 2.3);
+	// right
+	await roll(90, 20, 2.2);
+	// right
+	await roll(180, 20, 1);
+	// left
+	await roll(90, 20, 2.55);
+	// left
+	await roll(0, 10, 3.4);
+	await delay(1);
+	// left
+	await roll(270, 20, 1.5);
+	// HALFWAY POINT
+	await roll(0, 20, 1.2);
+	await delay(2.5);
+	// Start of second code
+	await roll(90, 20, 1.7);
+	// left
+	await roll(0, 10, 2.8);
+	// left
+	await roll(260, 25, 3.7);
+	// left
+	await roll(225, 15, 3);
+	// straight
+	await roll(290, 10, 3);
+	// right
+	await roll(20, 10, 3);
+}
